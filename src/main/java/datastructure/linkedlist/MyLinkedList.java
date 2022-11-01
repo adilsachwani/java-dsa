@@ -2,7 +2,7 @@ package datastructure.linkedlist;
 
 public class MyLinkedList {
 
-    private Node head;
+    public Node head;
     private int size;
 
     public void addFirst(String data) {
